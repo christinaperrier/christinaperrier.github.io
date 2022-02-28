@@ -8,4 +8,6 @@ I am using this page to complete a data project on how safe the Lehigh community
 Here is a graphic I made to show where [Fall 2019 undergraduate Lehigh students](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf) are from.
 
 <img src="https://github.com/christinaperrier/christinaperrier.github.io/blob/main/Add%20a%20subheading.png?raw=true" width="600" height="800" />
+
+As someone who is has a lactose intolerance and loves the environment, I am passionate about non-dairy milks -- oat is my favorite! I was curious to see what the global market is for these dairy alternatives, as well as the statistics behind their consumption in America. I made a poster depicting data I found about plant-based milks, accompanied by some statistics on the detriments cow milk has on the environment to incentivize viewers to go non-dairy if they haven't already!
 <img src="https://github.com/christinaperrier/christinaperrier.github.io/blob/main/The%20Rise%20of%20Non-Dairy%20Milk.png?raw=true" width="600" height="800" />
