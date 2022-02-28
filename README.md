@@ -8,3 +8,4 @@ I am using this page to complete a data project on how safe the Lehigh community
 Here is a graphic I made to show where [Fall 2019 undergraduate Lehigh students](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf) are from.
 
 <img src="https://github.com/christinaperrier/christinaperrier.github.io/blob/main/Add%20a%20subheading.png?raw=true" width="600" height="800" />
+<img src="https://github.com/christinaperrier/christinaperrier.github.io/blob/main/The%20Rise%20of%20Non-Dairy%20Milk.png?raw=true" width="600" height="800" />
