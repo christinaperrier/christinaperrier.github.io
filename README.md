@@ -12,3 +12,5 @@ Here is a graphic I made to show where [Fall 2019 undergraduate Lehigh students]
 As someone who has a lactose intolerance and loves the environment, I am passionate about non-dairy milks -- oat is my favorite! I was curious to see what the global market is for these dairy alternatives, as well as the statistics behind their consumption in America. I made a poster depicting data I found about plant-based milks, accompanied by some statistics on the detriments cow milk has on the environment to incentivize viewers to go non-dairy if they haven't already!
 
 <img src="https://github.com/christinaperrier/christinaperrier.github.io/blob/main/The%20Rise%20of%20Non-Dairy%20Milk.png?raw=true" width="600" height="800" />
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eppV7bMvLukjBKWO3lvZR4KZavVqREnSRcezJaSwjh8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
