@@ -14,8 +14,11 @@ As someone who has a lactose intolerance and loves the environment, I am passion
 <img src="https://github.com/christinaperrier/christinaperrier.github.io/blob/main/The%20Rise%20of%20Non-Dairy%20Milk.png?raw=true" width="600" height="800" />
 
 # The History of the Lehigh-Lafayette Rivalry
+This is a timeline I made that shows significant Le-Laf Rivalry football games.
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eppV7bMvLukjBKWO3lvZR4KZavVqREnSRcezJaSwjh8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # The History of Coffee Makers
 This is a timeline I made that goes through all the major coffee maker inventions and developments. I love coffee, and I find the origins and long history of coffee very interesting, so I thought displaying it on a timeline would be engaging. I used a Google spreadsheet and TimelineJS to create it.
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kD8yXXRzPhYlFKQ87ahcAUOgh8PCucOn5e-T-Os8LXI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
