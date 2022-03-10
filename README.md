@@ -22,3 +22,6 @@ This is a timeline I made that shows significant Le-Laf Rivalry football games.
 This is a timeline I made that goes through all the major coffee maker inventions and developments. I love coffee, and I find the origins and long history of coffee very interesting, so I thought displaying it on a timeline would be engaging. I used a Google spreadsheet and TimelineJS to create it.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kD8yXXRzPhYlFKQ87ahcAUOgh8PCucOn5e-T-Os8LXI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+This is a chart I made with ChartBuilder that shows three countries with the largest population.
+<img src="https://github.com/christinaperrier/christinaperrier.github.io/blob/main/Three_Countries_with_the_Largest_Population_China_India_U.S._chartbuilder.png?raw=true" width="600" height="800" />
