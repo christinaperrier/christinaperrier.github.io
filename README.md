@@ -25,3 +25,6 @@ This is a timeline I made that goes through all the major coffee maker invention
 
 This is a chart I made with ChartBuilder that shows three countries with the largest population.
 ![Three Countries with the Largest Population](https://github.com/christinaperrier/christinaperrier.github.io/blob/main/Three_Countries_with_the_Largest_Population_China_India_U.S._chartbuilder.png?raw=true)
+
+This is a chart I made using ChartBuilder that shows the percent of undergraduate enrollment in each Lehigh college for the fall 2021.
+![Percent of Undergraduate Enrollment](https://github.com/christinaperrier/christinaperrier.github.io/blob/main/2021_Percent_of_Undergraduate_Enrollment_in_Each_Lehigh_College_Undergraduate_Enrollment_chartbuilder.png?raw=true)
