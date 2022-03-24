@@ -31,3 +31,6 @@ This is a chart I made using ChartBuilder that shows the percent of undergraduat
 
 This is a chart I made with ChartBuilder that shows the most expensive movies ever made and their revenues. Disclaimer: some of the movie titles have been abbreviated to make space for the bars.
 ![Most Expensive Movies Ever Made](https://github.com/christinaperrier/christinaperrier.github.io/blob/main/Most_Expensive_Movies_Ever_Made_and_Their_Revenue_Budget_Worldwide_Gross_chartbuilder.png?raw=true)
+
+This is a chart I made with Chartbuilder that shows the percentages of undergraduate Lehigh students in each college for the years 2016-2020.
+![Percent of Undergraduate Enrollment]()
