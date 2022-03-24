@@ -32,5 +32,8 @@ This is a chart I made using ChartBuilder that shows the percent of undergraduat
 This is a chart I made with ChartBuilder that shows the most expensive movies ever made and their revenues. Disclaimer: some of the movie titles have been abbreviated to make space for the bars.
 ![Most Expensive Movies Ever Made](https://github.com/christinaperrier/christinaperrier.github.io/blob/main/Most_Expensive_Movies_Ever_Made_and_Their_Revenue_Budget_Worldwide_Gross_chartbuilder.png?raw=true)
 
-This is a chart I made with Chartbuilder that shows the percentages of undergraduate Lehigh students in each college for the years 2016-2020.
+This is a line graph I made with Chartbuilder that shows the percentages of undergraduate Lehigh students in each college for the years 2016-2020.
 ![Percent of Undergraduate Enrollment](https://github.com/christinaperrier/christinaperrier.github.io/blob/main/Percentages_of_students_in_each_of_Lehigh's_undergraduate_colleges_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
+
+This is a scatter plot I made with Chartbuilder that shows the relationship between GDP per capita and Life Satisfaction levels of different countries in 2017. The abilities of Chartbuilder are a bit limited, so I was unable to include country labels for each dot. However, there appears to be an overall positive correlation between the two variables -- one may deduce that, generally, countries with higher GDP experience higher levels of life satisfaction, as well.
+![Percent of Undergraduate Enrollment](https://github.com/christinaperrier/christinaperrier.github.io/blob/main/GDP_and_Life_Satisfaction_levels_of_countries_in_2017_Life_Satisfaction_chartbuilder.png?raw=true)
