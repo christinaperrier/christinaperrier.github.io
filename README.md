@@ -33,4 +33,4 @@ This is a chart I made with ChartBuilder that shows the most expensive movies ev
 ![Most Expensive Movies Ever Made](https://github.com/christinaperrier/christinaperrier.github.io/blob/main/Most_Expensive_Movies_Ever_Made_and_Their_Revenue_Budget_Worldwide_Gross_chartbuilder.png?raw=true)
 
 This is a chart I made with Chartbuilder that shows the percentages of undergraduate Lehigh students in each college for the years 2016-2020.
-![Percent of Undergraduate Enrollment]()
+![Percent of Undergraduate Enrollment](https://github.com/christinaperrier/christinaperrier.github.io/blob/main/Percentages_of_students_in_each_of_Lehigh's_undergraduate_colleges_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
