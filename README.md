@@ -40,3 +40,5 @@ This is a scatter plot I made with Chartbuilder that shows the relationship betw
 
 This is a line graph I made with Chartbuilder that shows the changes in MAU in millions of different social media platoforms (Instagram, Twitter and Facebook). Finding this data was a little difficult for some of the years, as I was only able to turn up estimates for a couple of them. It's interesting to see how much these platforms have grown. I always knew Facebook was the most used platform but it's always surprising to me to see the usage of Facebook because it is the social media I use the least personally -- and I think that goes for a lot of individuals in my generation. It's also interesting to see just how much more usage there is on Facebook compared to the other two.
 ![Social Media Usage in MAU](https://github.com/christinaperrier/christinaperrier.github.io/blob/main/Monthly_Active_Users_on_different_social_media_platforms_Instagram_Twitter_Facebook_chartbuilder.png?raw=true)
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Ks79KAERfttBLA94pnjXMaYlar2FqYTb&ehbc=2E312F" width="640" height="480"></iframe>
