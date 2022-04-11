@@ -44,5 +44,6 @@ This is a line graph I made with Chartbuilder that shows the changes in MAU in m
 This is a map I created using Google My Maps of the Top 20 Cycling Cities. The information was gathered from [Wired](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/).
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Ks79KAERfttBLA94pnjXMaYlar2FqYTb&ehbc=2E312F" width="640" height="480"></iframe>
 
+
 This is a map I created using Google My Maps of the Top 15 Pizza Spots in NYC, according to data collected by [TimeOut](https://www.timeout.com/newyork/restaurants/best-new-york-pizza).
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1OAYHTjTOxf1guX0A6l8kUFUdIyk8m4oj&ehbc=2E312F" width="640" height="480"></iframe>
