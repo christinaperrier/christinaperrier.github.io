@@ -5,11 +5,13 @@ I am using this page to complete a data project on how safe the Lehigh community
 
 <img src="https://github.com/christinaperrier/christinaperrier.github.io/blob/main/image.jpg?raw=true" width="600" height="800" />
 
+# Lehigh University Fall 2019 Student Profile
 Here is a graphic I made to show where [Fall 2019 undergraduate Lehigh students](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf) are from.
 
 <img src="https://github.com/christinaperrier/christinaperrier.github.io/blob/main/Add%20a%20subheading.png?raw=true" width="600" height="800" />
 
-As someone who has a lactose intolerance and loves the environment, I am passionate about non-dairy milks -- oat is my favorite! I was curious to see what the global market is for these dairy alternatives, as well as the statistics behind their consumption in America. I made a poster depicting data I found about plant-based milks, accompanied by some statistics on the detriments cow milk has on the environment to incentivize viewers to go non-dairy if they haven't already!
+# Powered by Plants: The Rise of Non-Dairy Milk
+As someone who has a lactose intolerance and loves the environment, I am passionate about non-dairy milks -- oat is my favorite! I was curious to see what the global market is for these dairy alternatives, as well as the statistics behind their consumption in America, such as the percentage of Americans who have tried non-dairy milks, how many Americans drink non-dairy milk regurlarly, non-dairy milk preferences and reasons why people drink non-dairy milk. I made a poster depicting data I found about plant-based milks, most of which came from [Forbes Business Insights](https://www.forbes.com/sites/briankateman/2019/08/19/non-dairy-milk-alternatives-are-experiencing-a-holy-cow-moment/?sh=111fcb7f4c44). I also included statistics on the detriments cow milk has on the environment to incentivize viewers to go non-dairy if they haven't already!
 
 <img src="https://github.com/christinaperrier/christinaperrier.github.io/blob/main/The%20Rise%20of%20Non-Dairy%20Milk.png?raw=true" width="600" height="800" />
 
@@ -23,18 +25,23 @@ This is a timeline I made that goes through all the major coffee maker invention
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kD8yXXRzPhYlFKQ87ahcAUOgh8PCucOn5e-T-Os8LXI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+# Where is most of the world's population located?
 This is a chart I made with ChartBuilder that shows three countries with the largest population.
 ![Three Countries with the Largest Population](https://github.com/christinaperrier/christinaperrier.github.io/blob/main/Three_Countries_with_the_Largest_Population_China_India_U.S._chartbuilder.png?raw=true)
 
+# Fall 2021 Lehigh University Undergraduate Enrollment
 This is a chart I made using ChartBuilder that shows the percent of undergraduate enrollment in each Lehigh college for the fall 2021.
 ![Percent of Undergraduate Enrollment](https://github.com/christinaperrier/christinaperrier.github.io/blob/main/2021_Percent_of_Undergraduate_Enrollment_in_Each_Lehigh_College_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
+# Blockbusters with the Biggest Budgets
 This is a chart I made with ChartBuilder that shows the most expensive movies ever made and their revenues. Disclaimer: some of the movie titles have been abbreviated to make space for the bars.
 ![Most Expensive Movies Ever Made](https://github.com/christinaperrier/christinaperrier.github.io/blob/main/Most_Expensive_Movies_Ever_Made_and_Their_Revenue_Budget_Worldwide_Gross_chartbuilder.png?raw=true)
 
+# Percent of Lehigh Undergraduate Enrollment in the Three Main Colleges
 This is a line graph I made with Chartbuilder that shows the percentages of undergraduate Lehigh students in each college for the years 2016-2020.
 ![Percent of Undergraduate Enrollment](https://github.com/christinaperrier/christinaperrier.github.io/blob/main/Percentages_of_students_in_each_of_Lehigh's_undergraduate_colleges_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
 
+# The Relationship Between GDP and Life Satisfaction
 This is a scatter plot I made with Chartbuilder that shows the relationship between GDP per capita and Life Satisfaction levels of different countries in 2017. The abilities of Chartbuilder are a bit limited, so I was unable to include country labels for each dot. However, there appears to be an overall positive correlation between the two variables -- one may deduce that, generally, countries with higher GDP experience higher levels of life satisfaction, as well.
 ![Percent of Undergraduate Enrollment](https://github.com/christinaperrier/christinaperrier.github.io/blob/main/GDP_and_Life_Satisfaction_levels_of_countries_in_2017_Life_Satisfaction_chartbuilder.png?raw=true)
 
